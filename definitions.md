@@ -34,3 +34,6 @@ In C, a static variable is a variable that retains its value between function ca
 When a variable is declared as static, it is only initialized once, the first time the function is called. 
 On subsequent calls to the same function, the value of the static variable is preserved, allowing the function to remember its state across multiple invocations. 
 This makes static variables useful for maintaining state across function calls, without the need to pass state as arguments to the function or use global variables.
+
+GLOBAL VARIABLE
+
