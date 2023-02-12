@@ -37,3 +37,6 @@ This makes static variables useful for maintaining state across function calls, 
 
 GLOBAL VARIABLE
 
+VARIABLE TYPE CASTING
+Type casting refers to changing an variable of one data type into another
+
